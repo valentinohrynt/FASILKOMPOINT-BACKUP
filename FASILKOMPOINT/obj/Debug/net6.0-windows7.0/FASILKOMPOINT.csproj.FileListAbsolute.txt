@@ -1,0 +1,180 @@
+D:\REVISI SEBELUM FINAL\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\FASILKOMPOINT.exe
+D:\REVISI SEBELUM FINAL\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\FASILKOMPOINT.deps.json
+D:\REVISI SEBELUM FINAL\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\FASILKOMPOINT.runtimeconfig.json
+D:\REVISI SEBELUM FINAL\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\FASILKOMPOINT.dll
+D:\REVISI SEBELUM FINAL\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\FASILKOMPOINT.pdb
+D:\REVISI SEBELUM FINAL\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\HarfBuzzSharp.dll
+D:\REVISI SEBELUM FINAL\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\REVISI SEBELUM FINAL\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\REVISI SEBELUM FINAL\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\Npgsql.dll
+D:\REVISI SEBELUM FINAL\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\QuestPDF.dll
+D:\REVISI SEBELUM FINAL\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\SkiaSharp.dll
+D:\REVISI SEBELUM FINAL\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\SkiaSharp.HarfBuzz.dll
+D:\REVISI SEBELUM FINAL\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\System.Diagnostics.DiagnosticSource.dll
+D:\REVISI SEBELUM FINAL\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\System.Text.Encodings.Web.dll
+D:\REVISI SEBELUM FINAL\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\System.Text.Json.dll
+D:\REVISI SEBELUM FINAL\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\WinForms.DataVisualization.Utilities.dll
+D:\REVISI SEBELUM FINAL\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\WinForms.DataVisualization.dll
+D:\REVISI SEBELUM FINAL\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+D:\REVISI SEBELUM FINAL\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+D:\REVISI SEBELUM FINAL\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+D:\REVISI SEBELUM FINAL\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+D:\REVISI SEBELUM FINAL\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\runtimes\osx\native\libSkiaSharp.dylib
+D:\REVISI SEBELUM FINAL\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\REVISI SEBELUM FINAL\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\runtimes\win-x64\native\libSkiaSharp.dll
+D:\REVISI SEBELUM FINAL\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\runtimes\win-x86\native\libSkiaSharp.dll
+D:\REVISI SEBELUM FINAL\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\REVISI SEBELUM FINAL\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.csproj.AssemblyReference.cache
+D:\REVISI SEBELUM FINAL\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.Properties.Resources.resources
+D:\REVISI SEBELUM FINAL\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.View.Halaman.resources
+D:\REVISI SEBELUM FINAL\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.View.Mahasiswa.BerandaMahasiswa.resources
+D:\REVISI SEBELUM FINAL\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.View.Mahasiswa.EntryDataKegiatan.resources
+D:\REVISI SEBELUM FINAL\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.View.Mahasiswa.EntryDataPrestasi.resources
+D:\REVISI SEBELUM FINAL\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.View.Mahasiswa.EntryDataSertifikasi.resources
+D:\REVISI SEBELUM FINAL\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.View.Mahasiswa.FormEntryDataKegiatan.resources
+D:\REVISI SEBELUM FINAL\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.View.Mahasiswa.FormEntryDataPrestasi.resources
+D:\REVISI SEBELUM FINAL\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.View.Mahasiswa.FormEntryDataSertifikasi.resources
+D:\REVISI SEBELUM FINAL\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.View.Mahasiswa.FormUbahDataKegiatan.resources
+D:\REVISI SEBELUM FINAL\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.View.Mahasiswa.FormUbahDataPrestasi.resources
+D:\REVISI SEBELUM FINAL\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.View.Mahasiswa.FormUbahDataSertifikasi.resources
+D:\REVISI SEBELUM FINAL\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.View.Mahasiswa.LihatSKPI.resources
+D:\REVISI SEBELUM FINAL\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.View.Mahasiswa.RekapDataSKPI.resources
+D:\REVISI SEBELUM FINAL\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.View.SKPI.BerandaSKPI.resources
+D:\REVISI SEBELUM FINAL\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.View.SKPI.DataSKPIMahasiswa.resources
+D:\REVISI SEBELUM FINAL\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.View.SKPI.DetailValidasiSKPIMahasiswa.resources
+D:\REVISI SEBELUM FINAL\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.View.SKPI.GrafikKegiatan.resources
+D:\REVISI SEBELUM FINAL\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.View.SKPI.Grafik.resources
+D:\REVISI SEBELUM FINAL\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.View.SKPI.GrafikSertifikasi.resources
+D:\REVISI SEBELUM FINAL\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.View.SKPI.ValidasiSKPIMahasiswa.resources
+D:\REVISI SEBELUM FINAL\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.View.TU.BerandaTU.resources
+D:\REVISI SEBELUM FINAL\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.csproj.GenerateResource.cache
+D:\REVISI SEBELUM FINAL\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.GeneratedMSBuildEditorConfig.editorconfig
+D:\REVISI SEBELUM FINAL\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.AssemblyInfoInputs.cache
+D:\REVISI SEBELUM FINAL\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.AssemblyInfo.cs
+D:\REVISI SEBELUM FINAL\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.csproj.CoreCompileInputs.cache
+D:\REVISI SEBELUM FINAL\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.csproj.CopyComplete
+D:\REVISI SEBELUM FINAL\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.dll
+D:\REVISI SEBELUM FINAL\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\refint\FASILKOMPOINT.dll
+D:\REVISI SEBELUM FINAL\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.pdb
+D:\REVISI SEBELUM FINAL\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.genruntimeconfig.cache
+D:\REVISI SEBELUM FINAL\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\ref\FASILKOMPOINT.dll
+D:\FINAL MAYBE\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\FASILKOMPOINT.exe
+D:\FINAL MAYBE\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\FASILKOMPOINT.deps.json
+D:\FINAL MAYBE\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\FASILKOMPOINT.runtimeconfig.json
+D:\FINAL MAYBE\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\FASILKOMPOINT.dll
+D:\FINAL MAYBE\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\FASILKOMPOINT.pdb
+D:\FINAL MAYBE\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\HarfBuzzSharp.dll
+D:\FINAL MAYBE\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\FINAL MAYBE\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\FINAL MAYBE\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\Npgsql.dll
+D:\FINAL MAYBE\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\QuestPDF.dll
+D:\FINAL MAYBE\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\SkiaSharp.dll
+D:\FINAL MAYBE\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\SkiaSharp.HarfBuzz.dll
+D:\FINAL MAYBE\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\System.Diagnostics.DiagnosticSource.dll
+D:\FINAL MAYBE\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\System.Text.Encodings.Web.dll
+D:\FINAL MAYBE\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\System.Text.Json.dll
+D:\FINAL MAYBE\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\WinForms.DataVisualization.Utilities.dll
+D:\FINAL MAYBE\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\WinForms.DataVisualization.dll
+D:\FINAL MAYBE\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+D:\FINAL MAYBE\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+D:\FINAL MAYBE\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+D:\FINAL MAYBE\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+D:\FINAL MAYBE\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\runtimes\osx\native\libSkiaSharp.dylib
+D:\FINAL MAYBE\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\FINAL MAYBE\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\runtimes\win-x64\native\libSkiaSharp.dll
+D:\FINAL MAYBE\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\runtimes\win-x86\native\libSkiaSharp.dll
+D:\FINAL MAYBE\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\FINAL MAYBE\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.csproj.AssemblyReference.cache
+D:\FINAL MAYBE\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.Properties.Resources.resources
+D:\FINAL MAYBE\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.View.Halaman.resources
+D:\FINAL MAYBE\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.View.Mahasiswa.BerandaMahasiswa.resources
+D:\FINAL MAYBE\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.View.Mahasiswa.EntryDataKegiatan.resources
+D:\FINAL MAYBE\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.View.Mahasiswa.EntryDataPrestasi.resources
+D:\FINAL MAYBE\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.View.Mahasiswa.EntryDataSertifikasi.resources
+D:\FINAL MAYBE\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.View.Mahasiswa.FormEntryDataKegiatan.resources
+D:\FINAL MAYBE\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.View.Mahasiswa.FormEntryDataPrestasi.resources
+D:\FINAL MAYBE\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.View.Mahasiswa.FormEntryDataSertifikasi.resources
+D:\FINAL MAYBE\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.View.Mahasiswa.FormUbahDataKegiatan.resources
+D:\FINAL MAYBE\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.View.Mahasiswa.FormUbahDataPrestasi.resources
+D:\FINAL MAYBE\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.View.Mahasiswa.FormUbahDataSertifikasi.resources
+D:\FINAL MAYBE\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.View.Mahasiswa.LihatSKPI.resources
+D:\FINAL MAYBE\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.View.Mahasiswa.RekapDataSKPI.resources
+D:\FINAL MAYBE\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.View.SKPI.BerandaSKPI.resources
+D:\FINAL MAYBE\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.View.SKPI.DataSKPIMahasiswa.resources
+D:\FINAL MAYBE\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.View.SKPI.DetailValidasiSKPIMahasiswa.resources
+D:\FINAL MAYBE\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.View.SKPI.GrafikKegiatan.resources
+D:\FINAL MAYBE\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.View.SKPI.Grafik.resources
+D:\FINAL MAYBE\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.View.SKPI.GrafikSertifikasi.resources
+D:\FINAL MAYBE\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.View.SKPI.ValidasiSKPIMahasiswa.resources
+D:\FINAL MAYBE\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.View.TU.BerandaTU.resources
+D:\FINAL MAYBE\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.csproj.GenerateResource.cache
+D:\FINAL MAYBE\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.GeneratedMSBuildEditorConfig.editorconfig
+D:\FINAL MAYBE\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.AssemblyInfoInputs.cache
+D:\FINAL MAYBE\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.AssemblyInfo.cs
+D:\FINAL MAYBE\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.csproj.CoreCompileInputs.cache
+D:\FINAL MAYBE\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.csproj.CopyComplete
+D:\FINAL MAYBE\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.dll
+D:\FINAL MAYBE\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\refint\FASILKOMPOINT.dll
+D:\FINAL MAYBE\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.pdb
+D:\FINAL MAYBE\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.genruntimeconfig.cache
+D:\FINAL MAYBE\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\ref\FASILKOMPOINT.dll
+D:\FINAL 3\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\FASILKOMPOINT.exe
+D:\FINAL 3\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\FASILKOMPOINT.deps.json
+D:\FINAL 3\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\FASILKOMPOINT.runtimeconfig.json
+D:\FINAL 3\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\FASILKOMPOINT.dll
+D:\FINAL 3\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\FASILKOMPOINT.pdb
+D:\FINAL 3\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\HarfBuzzSharp.dll
+D:\FINAL 3\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\FINAL 3\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\FINAL 3\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\Npgsql.dll
+D:\FINAL 3\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\QuestPDF.dll
+D:\FINAL 3\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\SkiaSharp.dll
+D:\FINAL 3\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\SkiaSharp.HarfBuzz.dll
+D:\FINAL 3\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\System.Diagnostics.DiagnosticSource.dll
+D:\FINAL 3\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\System.Text.Encodings.Web.dll
+D:\FINAL 3\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\System.Text.Json.dll
+D:\FINAL 3\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\WinForms.DataVisualization.Utilities.dll
+D:\FINAL 3\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\WinForms.DataVisualization.dll
+D:\FINAL 3\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+D:\FINAL 3\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+D:\FINAL 3\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+D:\FINAL 3\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+D:\FINAL 3\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\runtimes\osx\native\libSkiaSharp.dylib
+D:\FINAL 3\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\FINAL 3\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\runtimes\win-x64\native\libSkiaSharp.dll
+D:\FINAL 3\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\runtimes\win-x86\native\libSkiaSharp.dll
+D:\FINAL 3\PBOA1-2023\FASILKOMPOINT\bin\Debug\net6.0-windows7.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\FINAL 3\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.csproj.AssemblyReference.cache
+D:\FINAL 3\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.Properties.Resources.resources
+D:\FINAL 3\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.View.Halaman.resources
+D:\FINAL 3\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.View.Mahasiswa.BerandaMahasiswa.resources
+D:\FINAL 3\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.View.Mahasiswa.EntryDataKegiatan.resources
+D:\FINAL 3\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.View.Mahasiswa.EntryDataPrestasi.resources
+D:\FINAL 3\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.View.Mahasiswa.EntryDataSertifikasi.resources
+D:\FINAL 3\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.View.Mahasiswa.FormEntryDataKegiatan.resources
+D:\FINAL 3\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.View.Mahasiswa.FormEntryDataPrestasi.resources
+D:\FINAL 3\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.View.Mahasiswa.FormEntryDataSertifikasi.resources
+D:\FINAL 3\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.View.Mahasiswa.FormUbahDataKegiatan.resources
+D:\FINAL 3\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.View.Mahasiswa.FormUbahDataPrestasi.resources
+D:\FINAL 3\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.View.Mahasiswa.FormUbahDataSertifikasi.resources
+D:\FINAL 3\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.View.Mahasiswa.LihatSKPI.resources
+D:\FINAL 3\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.View.Mahasiswa.RekapDataSKPI.resources
+D:\FINAL 3\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.View.SKPI.BerandaSKPI.resources
+D:\FINAL 3\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.View.SKPI.DataSKPIMahasiswa.resources
+D:\FINAL 3\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.View.SKPI.DetailValidasiSKPIMahasiswa.resources
+D:\FINAL 3\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.View.SKPI.GrafikKegiatan.resources
+D:\FINAL 3\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.View.SKPI.Grafik.resources
+D:\FINAL 3\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.View.SKPI.GrafikSertifikasi.resources
+D:\FINAL 3\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.View.SKPI.ValidasiSKPIMahasiswa.resources
+D:\FINAL 3\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.View.TU.BerandaTU.resources
+D:\FINAL 3\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.csproj.GenerateResource.cache
+D:\FINAL 3\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.GeneratedMSBuildEditorConfig.editorconfig
+D:\FINAL 3\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.AssemblyInfoInputs.cache
+D:\FINAL 3\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.AssemblyInfo.cs
+D:\FINAL 3\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.csproj.CoreCompileInputs.cache
+D:\FINAL 3\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.csproj.CopyComplete
+D:\FINAL 3\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.dll
+D:\FINAL 3\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\refint\FASILKOMPOINT.dll
+D:\FINAL 3\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.pdb
+D:\FINAL 3\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\FASILKOMPOINT.genruntimeconfig.cache
+D:\FINAL 3\PBOA1-2023\FASILKOMPOINT\obj\Debug\net6.0-windows7.0\ref\FASILKOMPOINT.dll

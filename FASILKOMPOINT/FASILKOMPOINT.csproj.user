@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="View\HalamanLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Mahasiswa\EntryDataPrestasi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Mahasiswa\BerandaMahasiswa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Mahasiswa\FormUbahDataKegiatan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Mahasiswa\FormUbahDataPrestasi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Mahasiswa\FormUbahDataSertifikasi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Mahasiswa\FormEntryDataKegiatan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Mahasiswa\FormEntryDataPrestasi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Mahasiswa\FormEntryDataSertifikasi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Mahasiswa\LihatSKPI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Mahasiswa\RekapDataSKPI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\SKPI\BerandaSKPI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\SKPI\DataSKPIMahasiswa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\SKPI\DetailValidasiSKPIMahasiswa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\SKPI\GrafikPrestasi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\SKPI\GrafikKegiatan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\SKPI\GrafikSertifikasi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\SKPI\ValidasiSKPIMahasiswa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\TU\BerandaTU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="View\Mahasiswa\BerandaMahasiswa.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

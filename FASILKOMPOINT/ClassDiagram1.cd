@@ -1,0 +1,340 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FASILKOMPOINT.App.Core.DatabaseWrapper">
+    <Position X="12.25" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>QAAACAAACAAAAAAAEAAJABAAAASQAAIAAAEAAAAAAAA=</HashCode>
+      <FileName>App\Core\DatabaseWrapper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FASILKOMPOINT.App.Context.AktivitasKeikutsertaanContext">
+    <Position X="0.75" Y="5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAgIAAAAAABAAAAAAIAAAAAABAAAAgAAAAAAAAA=</HashCode>
+      <FileName>App\Context\AktivitasKeikutsertaanContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FASILKOMPOINT.App.Context.AktivitasPrestasiContext">
+    <Position X="4" Y="5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAABEAAACAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>App\Context\AktivitasPrestasiContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FASILKOMPOINT.App.Context.AktivitasSertifikasiContext">
+    <Position X="13.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAACAAABAEAAAAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>App\Context\AktivitasSertifikasiContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FASILKOMPOINT.App.Context.ButirContext">
+    <Position X="11.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAYABAAAQABgAhAAAAAAAAAAQAAAAAEIBAAAAAAAAA=</HashCode>
+      <FileName>App\Context\ButirContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FASILKOMPOINT.App.Context.DataDiriContext">
+    <Position X="9.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgCAAAAAAAAAAIAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>App\Context\DataDiriContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FASILKOMPOINT.App.Context.GrafikContext" Collapsed="true">
+    <Position X="20.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAKAAAAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>App\Context\GrafikContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FASILKOMPOINT.App.Context.MahasiswaContext" Collapsed="true">
+    <Position X="22.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAMAAAAAAAAAAEBAAAEAAAAAAAAAAEAGAEAAAAQAAAA=</HashCode>
+      <FileName>App\Context\MahasiswaContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FASILKOMPOINT.App.Context.ProdiContext" Collapsed="true">
+    <Position X="31" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App\Context\ProdiContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FASILKOMPOINT.App.Context.SKPIContext" Collapsed="true">
+    <Position X="25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABQAAAAAAAAAAAAAAQAEAAAAAAAAAA=</HashCode>
+      <FileName>App\Context\SKPIContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FASILKOMPOINT.App.Context.SubbutirContext" Collapsed="true">
+    <Position X="16" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAABAQQQAAIAAAAAAACAAAAAAAgAAgAA=</HashCode>
+      <FileName>App\Context\SubbutirContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FASILKOMPOINT.App.Context.subKategoriContext" Collapsed="true">
+    <Position X="18.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAIAAAAAAAAAAACA=</HashCode>
+      <FileName>App\Context\subKategoriContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FASILKOMPOINT.App.Context.UserContext">
+    <Position X="7" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App\Context\UserContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FASILKOMPOINT.App.Core.ShellExecutor">
+    <Position X="34.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>App\Core\ShellExecutor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FASILKOMPOINT.App.Models.M_Aktivitas_Prestasi" Collapsed="true">
+    <Position X="31" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AqAAAAAEBYAAAAAAAIAAAAAAAgAAAAQQAQAAAAgCAAA=</HashCode>
+      <FileName>App\Models\M_Aktivitas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FASILKOMPOINT.App.Models.M_Aktivitas_Sertifikasi" Collapsed="true">
+    <Position X="32.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AqAAAAAEBIACAAAAAIAAAAAAAAAAAAAQAgAAAQAAAAA=</HashCode>
+      <FileName>App\Models\M_Aktivitas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FASILKOMPOINT.App.Models.M_Aktivitas_Keikutsertaan" Collapsed="true">
+    <Position X="29.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AqAAAAAEBIAAAAAAAIAAAQAAAgAAAEAQAAAAAAgAAAA=</HashCode>
+      <FileName>App\Models\M_Aktivitas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FASILKOMPOINT.App.Models.M_Butir" Collapsed="true">
+    <Position X="34.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAIAAAAAAAAAQ=</HashCode>
+      <FileName>App\Models\M_Butir.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FASILKOMPOINT.App.Models.M_Kategori">
+    <Position X="36.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App\Models\M_Kategori.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FASILKOMPOINT.App.Models.M_Mahasiswa" Collapsed="true">
+    <Position X="27.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAEAAEAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>App\Models\M_Mahasiswa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FASILKOMPOINT.App.Models.M_Prodi" Collapsed="true">
+    <Position X="29.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App\Models\M_Prodi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FASILKOMPOINT.App.Models.M_Role" Collapsed="true">
+    <Position X="31" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>App\Models\M_Role.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FASILKOMPOINT.App.Models.M_Subbutir" Collapsed="true">
+    <Position X="32.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAEAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>App\Models\M_Subbutir.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FASILKOMPOINT.App.Models.M_SubKategori" Collapsed="true">
+    <Position X="34.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App\Models\M_SubKategori.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FASILKOMPOINT.App.Models.M_Tata_Usaha">
+    <Position X="38.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAEAAEAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>App\Models\M_Tata_Usaha.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FASILKOMPOINT.App.Models.M_Tim_SKPI" Collapsed="true">
+    <Position X="27.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAEAAEAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>App\Models\M_Tim_SKPI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FASILKOMPOINT.App.Models.M_User" Collapsed="true">
+    <Position X="29.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAIAAAAgAAAAA=</HashCode>
+      <FileName>App\Models\M_User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FASILKOMPOINT.View.Mahasiswa.BerandaMahasiswa" Collapsed="true">
+    <Position X="27.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAARAAQCAAEAgAAACAAAECAEA4AAACAHAoQABAAAA=</HashCode>
+      <FileName>View\Mahasiswa\BerandaMahasiswa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FASILKOMPOINT.View.Mahasiswa.EntryDataKegiatan" Collapsed="true">
+    <Position X="36.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAACAAAFCAAQCAAAGKgAAAAAAAgMCAAQAAAAg=</HashCode>
+      <FileName>View\Mahasiswa\EntryDataKegiatan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FASILKOMPOINT.View.Mahasiswa.EntryDataPrestasi" Collapsed="true">
+    <Position X="27.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAACAAANCAAQCAAAGKgAAAAAAAAMCAAQAAAAg=</HashCode>
+      <FileName>View\Mahasiswa\EntryDataPrestasi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FASILKOMPOINT.View.Mahasiswa.EntryDataSertifikasi" Collapsed="true">
+    <Position X="29.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAACAAAFCAAQCAAAGKgAAIAAAQAMCAAQAAAAg=</HashCode>
+      <FileName>View\Mahasiswa\EntryDataSertifikasi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FASILKOMPOINT.View.Mahasiswa.FormEntryDataKegiatan" Collapsed="true">
+    <Position X="31" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kACBIBRAACIAAJACgADAgAECIAgAAAAACUAQAAEAAAA=</HashCode>
+      <FileName>View\Mahasiswa\FormEntryDataKegiatan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FASILKOMPOINT.View.Mahasiswa.FormEntryDataPrestasi" Collapsed="true">
+    <Position X="32.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAABIBQAECIAAJACBAiAgQUKIAAQABAECEBBAAAAAAI=</HashCode>
+      <FileName>View\Mahasiswa\FormEntryDataPrestasi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FASILKOMPOINT.View.Mahasiswa.FormEntryDataSertifikasi" Collapsed="true">
+    <Position X="34.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kAABIFBAAKIAABACgADAoAUCIAAAAAAACEAAAAAAAAA=</HashCode>
+      <FileName>View\Mahasiswa\FormEntryDataSertifikasi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FASILKOMPOINT.View.Mahasiswa.FormUbahDataKegiatan" Collapsed="true">
+    <Position X="36.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kgDBIBRAACIAAJACgADAgAECIAAAAAAECUAQAAEAAAA=</HashCode>
+      <FileName>View\Mahasiswa\FormUbahDataKegiatan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FASILKOMPOINT.View.Mahasiswa.FormUbahDataPrestasi" Collapsed="true">
+    <Position X="27.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ggABIBAAECIAABACJAiAgQUKIAAQABAACEBAAAAQAAI=</HashCode>
+      <FileName>View\Mahasiswa\FormUbahDataPrestasi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FASILKOMPOINT.View.Mahasiswa.FormUbahDataSertifikasi" Collapsed="true">
+    <Position X="29.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ggABIFBAACoAABACgADAoAUCIAgAAAAACEAAAAAAAAA=</HashCode>
+      <FileName>View\Mahasiswa\FormUbahDataSertifikasi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FASILKOMPOINT.View.Mahasiswa.LihatSKPI" Collapsed="true">
+    <Position X="27.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAIAAAACAAABAAAACAAAECAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>View\Mahasiswa\LihatSKPI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FASILKOMPOINT.View.Mahasiswa.RekapDataSKPI" Collapsed="true">
+    <Position X="32.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAACACAAABCAAACAAAECkAggAAAAgMCAAQAAAAg=</HashCode>
+      <FileName>View\Mahasiswa\RekapDataSKPI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FASILKOMPOINT.View.SKPI.BerandaSKPI" Collapsed="true">
+    <Position X="29.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIRQAQCAAABAAAACAAAQCAEA4AAACAHAoAMBAEAg=</HashCode>
+      <FileName>View\SKPI\BerandaSKPI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FASILKOMPOINT.View.SKPI.DataSKPIMahasiswa" Collapsed="true">
+    <Position X="32.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAACAQABAAAACAAAATAAgoQAAAEEAAAABAAAA=</HashCode>
+      <FileName>View\SKPI\DataSKPIMahasiswa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FASILKOMPOINT.View.SKPI.DetailValidasiSKPIMahasiswa" Collapsed="true">
+    <Position X="34.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAACACiEABAAAACAEAACAEggAAAAAAAAAABAAAA=</HashCode>
+      <FileName>View\SKPI\DetailValidasiSKPIMahasiswa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FASILKOMPOINT.View.SKPI.GrafikKegiatan" Collapsed="true">
+    <Position X="32.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAACAACAAAFCAAACAAAACgAAAAAAAAMCAAQAAAAg=</HashCode>
+      <FileName>View\SKPI\GrafikKegiatan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FASILKOMPOINT.View.SKPI.Grafik" Collapsed="true">
+    <Position X="31" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAACAACAAABCAAACAAAACgAAAAAAAAMCAAQAAAAg=</HashCode>
+      <FileName>View\SKPI\GrafikPrestasi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FASILKOMPOINT.View.SKPI.GrafikSertifikasi" Collapsed="true">
+    <Position X="34.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAACAACAAABCAAACAAAACgAAAEAAAAMCAAQAAAAg=</HashCode>
+      <FileName>View\SKPI\GrafikSertifikasi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FASILKOMPOINT.View.SKPI.ValidasiSKPIMahasiswa">
+    <Position X="36.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAACCQABAAAACAAAATAAg4AAAAEGAAAABAAAI=</HashCode>
+      <FileName>View\SKPI\ValidasiSKPIMahasiswa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FASILKOMPOINT.View.TU.BerandaTU" Collapsed="true">
+    <Position X="31" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACCSABAAAADAAAAzAAgAoAAAEAIAAAAAAAA=</HashCode>
+      <FileName>View\TU\BerandaTU.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FASILKOMPOINT.View.Halaman" Collapsed="true">
+    <Position X="36.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAATAAEhAAAQCACAESAABAAAACAAYAAAAAEEg=</HashCode>
+      <FileName>View\HalamanLogin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
