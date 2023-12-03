@@ -80,7 +80,7 @@ namespace FASILKOMPOINT.View.SKPI
                     detailButton.UseColumnTextForButtonValue = true;
                     dataGridView1.Columns.Add(detailButton);
 
-                    dataGridView1.Columns["nama_mahasiswa"].DisplayIndex = 1;
+                    dataGridView1.Columns["Nama Mahasiswa"].DisplayIndex = 1;
                 }
             }
             catch (Exception ex)

@@ -934,11 +934,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FINAL 3\\PBOA1-2023\\FASILKOMPOINT\\FASILKOMPOINT.csproj",
+      "projectUniqueName": "D:\\FINAL 3\\PBOA1-2023\\FASILKOMPOINT-BACKUP\\FASILKOMPOINT\\FASILKOMPOINT.csproj",
       "projectName": "FASILKOMPOINT",
-      "projectPath": "D:\\FINAL 3\\PBOA1-2023\\FASILKOMPOINT\\FASILKOMPOINT.csproj",
+      "projectPath": "D:\\FINAL 3\\PBOA1-2023\\FASILKOMPOINT-BACKUP\\FASILKOMPOINT\\FASILKOMPOINT.csproj",
       "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-      "outputPath": "D:\\FINAL 3\\PBOA1-2023\\FASILKOMPOINT\\obj\\",
+      "outputPath": "D:\\FINAL 3\\PBOA1-2023\\FASILKOMPOINT-BACKUP\\FASILKOMPOINT\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

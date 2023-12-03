@@ -28,9 +28,6 @@
     <Compile Update="View\Mahasiswa\FormEntryDataSertifikasi.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="View\Mahasiswa\LihatSKPI.cs">
-      <SubType>Form</SubType>
-    </Compile>
     <Compile Update="View\Mahasiswa\RekapDataSKPI.cs">
       <SubType>Form</SubType>
     </Compile>
