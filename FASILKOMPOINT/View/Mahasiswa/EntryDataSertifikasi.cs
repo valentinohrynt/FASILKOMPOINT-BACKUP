@@ -95,5 +95,9 @@ namespace FASILKOMPOINT.View.Mahasiswa
 
             }
         }
+        private void All_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }

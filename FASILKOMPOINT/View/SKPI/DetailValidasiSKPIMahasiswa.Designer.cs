@@ -125,6 +125,7 @@ namespace FASILKOMPOINT.View.SKPI
             Name = "DetailValidasiSKPIMahasiswa";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Detail Validasi SKPI Mahasiswa";
+            FormClosing += All_FormClosing;
             Load += DetailValidasiSKPIMahasiswa_Load;
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();

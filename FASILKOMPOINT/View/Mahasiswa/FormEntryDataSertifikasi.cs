@@ -90,5 +90,9 @@ namespace FASILKOMPOINT.View.Mahasiswa
                 entryDataSertifikasi.Show();
             }
         }
+        private void All_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }

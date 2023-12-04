@@ -182,6 +182,10 @@ namespace FASILKOMPOINT.View.Mahasiswa
             }
             cbSubButirPrestasi.Enabled = true;
         }
+        private void All_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            Application.Exit();
+        }
 
     }
 }

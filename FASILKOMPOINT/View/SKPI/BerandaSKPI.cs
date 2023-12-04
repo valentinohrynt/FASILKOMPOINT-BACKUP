@@ -128,5 +128,9 @@ namespace FASILKOMPOINT.View.SKPI
             DataSKPIMahasiswa dataSKPIMahasiswa = new DataSKPIMahasiswa();
             dataSKPIMahasiswa.Show();
         }
+        private void All_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }

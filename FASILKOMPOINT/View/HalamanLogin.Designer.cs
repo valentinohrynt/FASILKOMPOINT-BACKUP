@@ -114,6 +114,7 @@ namespace FASILKOMPOINT.View
             Name = "Halaman";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Login";
+            FormClosing += All_FormClosing;
             Load += Form1_Load;
             ResumeLayout(false);
             PerformLayout();

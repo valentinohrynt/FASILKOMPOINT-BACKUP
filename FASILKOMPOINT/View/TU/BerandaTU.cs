@@ -549,5 +549,9 @@ namespace FASILKOMPOINT.View.TU
                 }
             }
         }
+        private void All_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }

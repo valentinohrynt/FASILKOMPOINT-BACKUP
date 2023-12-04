@@ -137,5 +137,9 @@ namespace FASILKOMPOINT.View.SKPI
             MessageBox.Show("Komentar berhasil disimpan!", "Sukses", MessageBoxButtons.OK, MessageBoxIcon.Information);
             refreshform();
         }
+        private void All_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }

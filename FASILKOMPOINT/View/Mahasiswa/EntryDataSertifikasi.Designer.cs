@@ -162,6 +162,7 @@ namespace FASILKOMPOINT.View.Mahasiswa
             Name = "EntryDataSertifikasi";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Entry Data SKPI";
+            FormClosing += All_FormClosing;
             Load += EntryDataSertifikasi_Load;
             ((ISupportInitialize)dataGridView).EndInit();
             panel1.ResumeLayout(false);

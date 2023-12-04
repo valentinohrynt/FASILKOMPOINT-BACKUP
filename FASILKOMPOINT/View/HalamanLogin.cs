@@ -102,5 +102,9 @@ namespace FASILKOMPOINT.View
         {
 
         }
+        private void All_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }

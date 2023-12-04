@@ -358,6 +358,7 @@
             Name = "FormEntryDataPrestasi";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Form Entry Data Prestasi";
+            FormClosing += All_FormClosing;
             Load += EntryDataPrestasi_Load;
             ResumeLayout(false);
             PerformLayout();

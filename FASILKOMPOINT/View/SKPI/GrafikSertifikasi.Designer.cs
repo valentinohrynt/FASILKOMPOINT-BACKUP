@@ -144,6 +144,7 @@
             Name = "GrafikSertifikasi";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Grafik Sertifikasi";
+            FormClosing += All_FormClosing;
             Load += GrafikSertifikasi_Load;
             panel1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)chart1).EndInit();

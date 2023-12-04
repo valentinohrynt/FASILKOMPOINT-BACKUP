@@ -78,5 +78,9 @@ namespace FASILKOMPOINT.View.SKPI
         {
             ExecuteSearch();
         }
+        private void All_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }

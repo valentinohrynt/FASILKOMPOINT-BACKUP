@@ -127,6 +127,7 @@ namespace FASILKOMPOINT.View.TU
             Name = "BerandaTU";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Beranda TU";
+            FormClosing += All_FormClosing;
             Load += BerandaTU_Load;
             ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
             ResumeLayout(false);

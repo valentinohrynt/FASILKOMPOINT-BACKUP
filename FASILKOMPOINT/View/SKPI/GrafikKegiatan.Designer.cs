@@ -144,6 +144,7 @@
             Name = "GrafikKegiatan";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Grafik Kegiatan";
+            FormClosing += All_FormClosing;
             Load += GrafikKegiatan_Load;
             panel1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)chart1).EndInit();

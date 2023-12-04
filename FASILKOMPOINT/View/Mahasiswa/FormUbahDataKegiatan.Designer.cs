@@ -271,6 +271,7 @@
             ShowIcon = false;
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Form Ubah Data Kegiatan";
+            FormClosing += All_FormClosing;
             Load += FormUbahDataKegiatan_Load;
             ResumeLayout(false);
             PerformLayout();

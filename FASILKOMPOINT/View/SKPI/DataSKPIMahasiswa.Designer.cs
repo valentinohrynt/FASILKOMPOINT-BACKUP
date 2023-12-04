@@ -120,6 +120,7 @@
             Name = "DataSKPIMahasiswa";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Data SKPI Mahasiswa";
+            FormClosing += All_FormClosing;
             Load += DataSKPIMahasiswa_Load;
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();

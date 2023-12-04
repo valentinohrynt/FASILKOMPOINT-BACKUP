@@ -221,5 +221,9 @@ namespace FASILKOMPOINT.View.Mahasiswa
             cbSubButirSerta.ValueMember = "nama_butir";
             cbSubButirSerta.Enabled = true;
         }
+        private void All_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }

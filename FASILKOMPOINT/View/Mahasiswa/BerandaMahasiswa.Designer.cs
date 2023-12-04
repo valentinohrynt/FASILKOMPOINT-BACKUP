@@ -160,6 +160,7 @@ namespace FASILKOMPOINT.View.Mahasiswa
             Name = "BerandaMahasiswa";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Beranda Mahasiswa";
+            FormClosing += All_FormClosing;
             Load += BerandaMahasiswa_Load;
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).EndInit();

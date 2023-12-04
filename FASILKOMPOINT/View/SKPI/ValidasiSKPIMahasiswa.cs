@@ -116,6 +116,10 @@ namespace FASILKOMPOINT.View.SKPI
                 this.Hide();
             }
         }
+        private void All_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }
 

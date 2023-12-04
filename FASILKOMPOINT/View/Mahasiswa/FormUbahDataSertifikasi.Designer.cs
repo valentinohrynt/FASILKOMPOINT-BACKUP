@@ -244,6 +244,7 @@
             Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "FormUbahDataSertifikasi";
             Text = "Form Ubah Data Sertifikasi";
+            FormClosing += All_FormClosing;
             Load += FormUbahDataSertifikasi_Load;
             ResumeLayout(false);
             PerformLayout();

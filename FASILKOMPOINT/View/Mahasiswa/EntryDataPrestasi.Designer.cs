@@ -160,6 +160,7 @@
             Name = "EntryDataPrestasi";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Entry Data SKPI";
+            FormClosing += All_FormClosing;
             Load += EntryDataPrestasi_Load;
             ((System.ComponentModel.ISupportInitialize)dataGridView).EndInit();
             panel1.ResumeLayout(false);

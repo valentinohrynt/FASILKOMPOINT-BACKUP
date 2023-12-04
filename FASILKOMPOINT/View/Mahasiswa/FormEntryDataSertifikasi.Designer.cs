@@ -246,6 +246,7 @@
             Name = "FormEntryDataSertifikasi";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Form Entry Data Sertifikasi";
+            FormClosing += All_FormClosing;
             Load += FormEntryDataSertifikasi_Load;
             ResumeLayout(false);
             PerformLayout();

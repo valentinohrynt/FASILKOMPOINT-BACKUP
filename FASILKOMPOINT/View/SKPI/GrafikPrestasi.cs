@@ -69,5 +69,9 @@ namespace FASILKOMPOINT.View.SKPI
             Grafik grafik = new Grafik();
             grafik.Show();
         }
+        private void All_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }

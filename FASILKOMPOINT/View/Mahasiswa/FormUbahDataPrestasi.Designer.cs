@@ -353,6 +353,7 @@
             Name = "FormUbahDataPrestasi";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Form Ubah Data Prestasi";
+            FormClosing += All_FormClosing;
             Load += FormUbahDataPrestasi_Load;
             ResumeLayout(false);
             PerformLayout();

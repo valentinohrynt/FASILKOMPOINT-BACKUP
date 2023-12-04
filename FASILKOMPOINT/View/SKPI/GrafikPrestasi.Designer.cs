@@ -148,6 +148,7 @@
             Name = "Grafik";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Grafik Prestasi";
+            FormClosing += All_FormClosing;
             Load += Grafik_Load;
             panel1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)chart1).EndInit();

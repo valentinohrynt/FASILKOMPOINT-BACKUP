@@ -169,5 +169,9 @@ namespace FASILKOMPOINT.View.Mahasiswa
                 dateTimePicker2.Enabled = false;
             }
         }
+        private void All_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }
