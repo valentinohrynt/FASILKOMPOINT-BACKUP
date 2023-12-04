@@ -113,7 +113,7 @@ namespace FASILKOMPOINT.View
             Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Halaman";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "Login";
+            Text = "FASILKOM POINT";
             FormClosing += All_FormClosing;
             Load += Form1_Load;
             ResumeLayout(false);
