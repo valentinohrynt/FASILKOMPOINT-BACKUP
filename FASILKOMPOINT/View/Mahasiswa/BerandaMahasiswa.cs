@@ -142,9 +142,9 @@ namespace FASILKOMPOINT.View.Mahasiswa
                 namaSertifikasiList.Add(namaSertifikasi);
             }
 
-            string linkHeader = "D:\\FINAL 3\\PBOA1-2023\\FASILKOMPOINT-BACKUP\\FASILKOMPOINT\\Resources\\header1.png";
-            string linkFooter = "D:\\FINAL 3\\PBOA1-2023\\FASILKOMPOINT-BACKUP\\FASILKOMPOINT\\Resources\\footer.png";
-            string linkKKNI = "D:\\FINAL 3\\PBOA1-2023\\FASILKOMPOINT-BACKUP\\FASILKOMPOINT\\Resources\\KKNI.png";
+            string linkHeader = @"D:\FINAL 3 (FASILKOMPOINT-BAKCUP)\FASILKOMPOINT-BACKUP\FASILKOMPOINT\Resources\header1.png";
+            string linkFooter = @"D:\FINAL 3 (FASILKOMPOINT-BAKCUP)\FASILKOMPOINT-BACKUP\FASILKOMPOINT\Resources\footer.png";
+            string linkKKNI = @"D:\FINAL 3 (FASILKOMPOINT-BAKCUP)\FASILKOMPOINT-BACKUP\FASILKOMPOINT\Resources\KKNI.png";
 
             DateTime now = DateTime.Now;
             string formatdate = now.ToString("dd MMMMM yyyy");
