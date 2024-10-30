@@ -13,3 +13,5 @@
 # 4. Copy secara utuh contoh "D:\\FASILKOMPOINT\\FASILKOMPOINT\\Resources\\header1.PNG" jangan dipotong menjadi "Resources\\header1.PNG"
 
 # 5. Ulangi Langkah diatas pada BerandaTU.cs pada line 136-138
+
+why I should do this? this is because the project's postgresql database still using the local one
